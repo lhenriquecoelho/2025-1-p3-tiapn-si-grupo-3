@@ -44,6 +44,42 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Objetivo: Garantir que os recursos (livros e e-books) sejam usados de forma eficiente e que os clientes tenham acesso facilitado a eles.</li>
  </ul>
 
+  <br>
+ <br>
+
+ <ul>
+  <li>Persona 3: João Pereira – Supervisor de Assistência Técnica</li>
+  <li>Idade: 43 anos</li>
+  <li>Profissão: Supervisor de assistência técnica em uma empresa de manutenção de celulares</li>
+  <li>Dores: Muitas vezes não se segue uma ordem correta na manutenção dos aparelhos, o que gera um atraso na entrega ao cliente, gerando insatisfação. Além disso, já ocorreram casos de perda de aparelhos, o que gera grande prejuízo para a empresa.</li>
+  <li>Necessidade: : Quer um sistema que registre cada entrada de aparelho, o técnico responsável e o prazo ao qual deve ser entregue de volta ao cliente, evitando atrasos e perdas.</li>
+  <li>Objetivo: Garantir que os aparelhos sejam atendidos em um prazo eficiente e satisfatório, tanto para a empresa, quanto para o cliente, evitando sobrecargas e desencontro de informações.</li>
+ </ul>
+
+  <br>
+ <br>
+
+ <ul>
+  <li>Persona 4: Mariana Ferreira – Gerente de Recursos Humanos</li>
+  <li>Idade: 37 anos</li>
+  <li>Profissão: Gerente de RH em uma empresa de médio porte</li>
+  <li>Dores: Atualmente, Mariana lida com a gestão de equipamentos fornecidos para funcionários, como notebooks e celulares corporativos. : Atualmente o controle é feito em uma planilha, mas nem sempre esta é atualizada corretamente, o que gera desencontro de informações que acarretam em dificuldades em receber de volta os equipamentos em caso de desligamento do funcionário.</li>
+  <li>Necessidade: : Busca um sistema onde possa cadastrar e acompanhar quais funcionários receberam equipamentos, evitando desencontros em caso de desligamento ou troca de função.</li>
+  <li>Objetivo: Garantir que os equipamentos sejam devolvidos sempre em caso de desligamento do funcionário, evitando a perda dos mesmos.</li>
+ </ul>
+
+ <br>
+ <br>
+
+ <ul>
+  <li>Persona 5: Francisco Venâncio – Autônomo no setor de aluguel de bicicletas</li>
+  <li>Idade: 53 anos</li>
+  <li>Profissão: : Dono de uma empresa de aluguel de bicicletas</li>
+  <li>Dores: : No início da empresa, Francisco conseguia gerenciar as bicicletas emprestadas de maneira manual, apenas na “confiança” do cliente. Com o crescimento do seu negócio, o controle manual passou a gerar problemas no prazo de devolução das bicicletas e dificuldade em localizar quais clientes estão com quais equipamentos.</li>
+  <li>Necessidade: : Quer um sistema que registre retiradas e devoluções das bicicletas, associando aos dados do cliente para evitar fraudes e perdas de equipamentos.</li>
+  <li>Objetivo: Permitir o acompanhamento do histórico de locações e prazos, notificando o cliente automaticamente em caso de devoluções pendentes. Dessa forma, Francisco reduzirá seu problema de equipamentos perdidos e atrasados.</li>
+ </ul>
+
 
 </h4>
 
