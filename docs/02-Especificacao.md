@@ -21,10 +21,11 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 > - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-<h4>
+
  
- <ul>
-  <li>Persona 1: João Mendes – Gerente de Produção</li>
+
+ <h4> Persona 1: João Mendes – Gerente de Produção </h4>
+  <ul>
   <li>Idade: 42 anos</li>
   <li>Profissão: Gerente de Produção em uma indústria de equipamentos eletrônicos</li>
   <li>Dores: Tem dificuldades em acompanhar quais funcionários estão com quais ferramentas, pois tudo é controlado por planilhas e anotações manuais. A perda de equipamentos e o atraso na devolução geram prejuízos.</li>
@@ -35,8 +36,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
  <br>
  <br>
  
-<ul>
-  <li>Persona 2: Mariana Souza – Empreendedora de Biblioteca Comunitária</li>
+
+  <h4>Persona 2: Mariana Souza – Empreendedora de Biblioteca Comunitária</h4>
+  <ul>
   <li>Idade: 35 anos</li>
   <li>Profissão: Proprietária de uma biblioteca comunitária que empresta livros físicos e digitais</li>
   <li>Dores: O controle dos empréstimos é feito em um caderno e algumas planilhas no computador, o que gera confusão e dificulta o acompanhamento das devoluções. Alguns usuários acabam ficando com os livros por muito tempo.</li>
@@ -47,8 +49,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <br>
  <br>
 
- <ul>
-  <li>Persona 3: João Pereira – Supervisor de Assistência Técnica</li>
+
+  <h4>Persona 3: João Pereira – Supervisor de Assistência Técnica</h4>
+   <ul>
   <li>Idade: 43 anos</li>
   <li>Profissão: Supervisor de assistência técnica em uma empresa de manutenção de celulares</li>
   <li>Dores: Muitas vezes não se segue uma ordem correta na manutenção dos aparelhos, o que gera um atraso na entrega ao cliente, gerando insatisfação. Além disso, já ocorreram casos de perda de aparelhos, o que gera grande prejuízo para a empresa.</li>
@@ -59,8 +62,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <br>
  <br>
 
- <ul>
-  <li>Persona 4: Mariana Ferreira – Gerente de Recursos Humanos</li>
+
+  <h4>Persona 4: Mariana Ferreira – Gerente de Recursos Humanos</h4>
+   <ul>
   <li>Idade: 37 anos</li>
   <li>Profissão: Gerente de RH em uma empresa de médio porte</li>
   <li>Dores: Atualmente, Mariana lida com a gestão de equipamentos fornecidos para funcionários, como notebooks e celulares corporativos. : Atualmente o controle é feito em uma planilha, mas nem sempre esta é atualizada corretamente, o que gera desencontro de informações que acarretam em dificuldades em receber de volta os equipamentos em caso de desligamento do funcionário.</li>
@@ -71,8 +75,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
  <br>
  <br>
 
- <ul>
-  <li>Persona 5: Francisco Venâncio – Autônomo no setor de aluguel de bicicletas</li>
+
+  <h4>Persona 5: Francisco Venâncio – Autônomo no setor de aluguel de bicicletas</h4>
+   <ul>
   <li>Idade: 53 anos</li>
   <li>Profissão: : Dono de uma empresa de aluguel de bicicletas</li>
   <li>Dores: : No início da empresa, Francisco conseguia gerenciar as bicicletas emprestadas de maneira manual, apenas na “confiança” do cliente. Com o crescimento do seu negócio, o controle manual passou a gerar problemas no prazo de devolução das bicicletas e dificuldade em localizar quais clientes estão com quais equipamentos.</li>
@@ -90,12 +95,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar a retirada e devolução de equipamentos           | Garantir que as ferramentas estejam disponíveis e evitar perdas               |
-|Usuário do sistema  | Gerar relatórios sobre o uso dos equipamentos           | Ter controle sobre quais funcionários utilizam quais ferramentas e por quanto tempo               |
-|Usuário do sistema  | Permitir que os funcionários reservem equipamentos           | Melhorar a organização do fluxo de trabalho               |
+|Usuário do sistema  | Registrar a retirada e devolução de equipamentos           | Garantir que as ferramentas estejam disponíveis e evitar perdas  |
 |Usuário do sistema  | Cadastrar itens no sistema           | Facilitar o controle de empréstimos e disponibilidade               |
-|Usuário do sistema  | Acompanhar histórico de empréstimos de cada usuário           | Identificar padrões de uso e tomar decisões sobre renovação de acervo               |
-|Usuário do sistema  | Registrar a retirada e devolução de equipamentos           | Garantir que as ferramentas estejam disponíveis e evitar perdas               |
+|Usuário do sistema  | Acompanhar histórico de empréstimos de cada usuário           | Identificar padrões de uso e tomar decisões sobre renovação de acervo      |
+|Adminstrador  | Permitir que os funcionários reservem equipamentos           | Melhorar a organização do fluxo de trabalho               |
 |Administrador       | Criar categorias para diferentes tipos de recursos                | Facilitar a organização e busca dentro do sistema |
 |Administrador       | Editar ou excluir registros de equipamentos e recursos                | Manter o banco de dados atualizado e organizado |
 |Administrador       | Gerenciar permissões de usuários               | Controlar quem pode cadastrar, editar e visualizar dados no sistema |
