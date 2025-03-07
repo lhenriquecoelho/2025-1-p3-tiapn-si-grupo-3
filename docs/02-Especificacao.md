@@ -119,8 +119,24 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A empresa deve criar um usuario e senha | ALTA | 
+|RF-002| A empresa deve conseguir logar com seu usuario e senha   | ALTA |
+|RF-003| A empresa deve conseguir recuperar seus dados de login   | MÉDIA |
+|RF-004| A empresa deve conseguir criar departamentos de emprestimos | ALTA |
+|RF-005| Cada departamento criado deve aceitar adicionar os produtos com código/nome unicos que serão emprestados e a quantidade dessa ferramenta especifica | ALTA |
+|RF-006| Cada departamento criado deve aceitar adicionar funcionarios, com codigo unico | ALTA |
+|RF-007| O sistema deverá TER UMA TELA de pegar emprestimo, onde irá adicionar o codigo do funcionario, objeto, quantidade de objetos e data/hora do emprestimo, assim como a data e hora maxima para devolver | ALTA |
+|RF-008| O sistema deverá REGISTRAR o codigo com nome do funcionario, qnt de objetos, objetos, data/hora do emprestimo e data/hora que deverá devolver | MÉDIA |
+|RF-009| O sistema deverá aceitar devolução de produtos, onde será informado o cod de funcionario e cod da ferramenta | ALTA |
+|RF-010| O sistema deverá mostrar lista de objetos que foram emprestadas com o cod de funcionario de um dia especifico | ALTA |
+|RF-011| A empresa deverá conseguir editar nome dos departamentos e objetos | MÉDIA |
+|RF-012| A empresa deverá conseguir excluir departamentos e peças | MÉDIA |
+|RF-013| A empresa deverá conseguir apagar funcionarios | MÉDIA |
+|RF-014| A empresa deverá conseguir editar nome e codigo de funcionario | MÉDIA |
+|RF-015| O sistema deverá permitir mostrar lista de um determinado setor com produtos em emprestimos, onde mostrará o funcionario, produto, data e hora do emprestimo | MÉDIA |
+|RF-016| O sistema poderá bloquear temporariamente ou permanentemente (a menos que seja revogada) um funcionario de pegar emprestimos de um determinado setor/ Objeto | BAIXA |
+|RF-016| O sistema deverá permitir a revogação de um bloqueio de um funcionario | BAIXA | 
+
 
 ### Requisitos não funcionais
 
