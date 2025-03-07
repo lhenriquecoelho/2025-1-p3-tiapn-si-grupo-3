@@ -56,11 +56,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 #### Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 07/03/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/02/2024      |
+| Gabriel H     | Requisitos funcionais | 03/03/2024     | 04/03/2024 | ✔️    | 04/02/2024      |
 | AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
 | João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | 📝     |                 |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
