@@ -48,6 +48,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Objetivo: Garantir que os recursos (livros e e-books) sejam usados de forma eficiente e que os clientes tenham acesso facilitado a eles.</li>
  </ul>
 
+  ![Persona 2](images/Persona2.png)
+  
   <br>
  <br>
 
@@ -60,6 +62,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Necessidade: : Quer um sistema que registre cada entrada de aparelho, o técnico responsável e o prazo ao qual deve ser entregue de volta ao cliente, evitando atrasos e perdas.</li>
   <li>Objetivo: Garantir que os aparelhos sejam atendidos em um prazo eficiente e satisfatório, tanto para a empresa, quanto para o cliente, evitando sobrecargas e desencontro de informações.</li>
  </ul>
+
+![Persona 3](images/Persona3.png)
 
   <br>
  <br>
@@ -74,6 +78,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Objetivo: Garantir que os equipamentos sejam devolvidos sempre em caso de desligamento do funcionário, evitando a perda dos mesmos.</li>
  </ul>
 
+ ![Persona 4](images/Persona4.png)
+
  <br>
  <br>
 
@@ -86,6 +92,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Necessidade: : Quer um sistema que registre retiradas e devoluções das bicicletas, associando aos dados do cliente para evitar fraudes e perdas de equipamentos.</li>
   <li>Objetivo: Permitir o acompanhamento do histórico de locações e prazos, notificando o cliente automaticamente em caso de devoluções pendentes. Dessa forma, Francisco reduzirá seu problema de equipamentos perdidos e atrasados.</li>
  </ul>
+
+ ![Persona 5](images/Persona5.png)
 
 
 </h4>
