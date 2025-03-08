@@ -32,6 +32,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
   <li>Necessidade:Um sistema simples e automatizado que permita controlar as retiradas e devoluções de equipamentos de forma prática, com notificações e histórico de uso.</li>
   <li>Objetivo: Melhorar a gestão de recursos dentro da empresa, reduzindo perdas e tornando o controle mais eficiente.</li>
  </ul>
+
+ ![Persona 1](images/Persona1.png)
  
  <br>
  <br>
