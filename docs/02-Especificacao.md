@@ -117,25 +117,26 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 ### Requisitos funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+| ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A empresa deve criar um usuario e senha | ALTA | 
-|RF-002| A empresa deve conseguir logar com seu usuario e senha   | ALTA |
-|RF-003| A empresa deve conseguir recuperar seus dados de login   | MÉDIA |
-|RF-004| A empresa deve conseguir criar departamentos de emprestimos | ALTA |
-|RF-005| Cada departamento criado deve aceitar adicionar os produtos com código/nome unicos que serão emprestados e a quantidade dessa ferramenta especifica | ALTA |
-|RF-006| Cada departamento criado deve aceitar adicionar funcionarios, com codigo unico | ALTA |
-|RF-007| O sistema deverá TER UMA TELA de pegar emprestimo, onde irá adicionar o codigo do funcionario, objeto, quantidade de objetos e data/hora do emprestimo, assim como a data e hora maxima para devolver | ALTA |
-|RF-008| O sistema deverá REGISTRAR o codigo com nome do funcionario, qnt de objetos, objetos, data/hora do emprestimo e data/hora que deverá devolver | MÉDIA |
-|RF-009| O sistema deverá aceitar devolução de produtos, onde será informado o cod de funcionario e cod da ferramenta | ALTA |
-|RF-010| O sistema deverá mostrar lista de objetos que foram emprestadas com o cod de funcionario de um dia especifico | ALTA |
-|RF-011| A empresa deverá conseguir editar nome dos departamentos e objetos | MÉDIA |
-|RF-012| A empresa deverá conseguir excluir departamentos e peças | MÉDIA |
-|RF-013| A empresa deverá conseguir apagar funcionarios | MÉDIA |
-|RF-014| A empresa deverá conseguir editar nome e codigo de funcionario | MÉDIA |
-|RF-015| O sistema deverá permitir mostrar lista de um determinado setor com produtos em emprestimos, onde mostrará o funcionario, produto, data e hora do emprestimo | MÉDIA |
-|RF-016| O sistema poderá bloquear temporariamente ou permanentemente (a menos que seja revogada) um funcionario de pegar emprestimos de um determinado setor/ Objeto | BAIXA |
-|RF-016| O sistema deverá permitir a revogação de um bloqueio de um funcionario | BAIXA | 
+| RF-001 | A empresa deve criar um usuário e senha. | ALTA | 
+| RF-002 | A empresa deve conseguir fazer login com seu usuário e senha. | ALTA |
+| RF-003 | A empresa deve conseguir recuperar seus dados de login. | MÉDIA |
+| RF-004 | A empresa deve conseguir criar departamentos de empréstimos. | ALTA |
+| RF-005 | Cada departamento criado deve permitir a adição de produtos com código/nome únicos que serão emprestados, assim como a quantidade específica de cada objeto. | ALTA |
+| RF-006 | Cada departamento criado deve permitir a adição de clientes (sejam internos ou externos), com código único, nome e CPF. | ALTA |
+| RF-007 | O sistema deverá ter uma tela para realizar empréstimos, onde será necessário adicionar o código do cliente, o objeto, a quantidade de objetos e a data/hora do empréstimo, assim como a data e hora máxima para devolução. | ALTA |
+| RF-008 | O sistema deverá registrar o código, nome e CPF do cliente, a quantidade de objetos emprestados, os objetos, a data/hora do empréstimo e a data/hora de devolução. | MÉDIA |
+| RF-009 | O sistema deverá aceitar a devolução de produtos, onde será informado o código do cliente e o código do objeto. | ALTA |
+| RF-010 | O sistema deverá mostrar a lista de objetos emprestados com o código do cliente em um dia específico. | ALTA |
+| RF-011 | A empresa deverá conseguir editar o nome dos departamentos e dos objetos. | MÉDIA |
+| RF-012 | A empresa deverá conseguir excluir departamentos e objetos. | MÉDIA |
+| RF-013 | A empresa deverá conseguir apagar clientes. | MÉDIA |
+| RF-014 | A empresa deverá conseguir editar o nome e o código do cliente. | MÉDIA |
+| RF-015 | O sistema deverá permitir a exibição da lista de um determinado setor com produtos emprestados, mostrando o cliente, o produto, a data e a hora do empréstimo. | MÉDIA |
+| RF-016 | O sistema poderá bloquear temporária ou permanentemente (a menos que seja revogado) um cliente de realizar empréstimos de um determinado setor/objeto. | BAIXA |
+| RF-017 | O sistema deverá permitir a revogação do bloqueio de um cliente. | BAIXA |
+
 
 
 ### Requisitos não funcionais
