@@ -61,7 +61,7 @@ Atualizado em: 07/03/2024
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Gabriel H     | Requisitos funcionais | 03/03/2024     | 04/03/2024 | ✔️    | 04/02/2024      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
+| Ingrid        | Diagrama de Casos de Uso e Slides    | 06/03/2024     | 09/03/2024 | 📝    |                 |
 | João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | 📝     |                 |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 
