@@ -6,7 +6,14 @@ Nossa equipe identificou a problemática das empresas que trabalham com sistemas
 
 ## Cliente 
 
-*** Pending.
+Fernandes Prado Construções e Empreendimentos LTDA é uma empresa de porte médio que atua no setor da construção civil, com foco no desenvolvimento de empreendimentos imobiliários. Com mais de 15 anos de experiência no mercado, a empresa tem consolidado sua presença no estado de Minas Gerais, especialmente na região metropolitana de Belo Horizonte, onde já realizou a construção de prédios comerciais, residenciais, casas geminadas e habitações unifamiliares para diversos perfis de clientes.
+
+A missão da Fernandes Prado é oferecer soluções inovadoras e de alta qualidade no setor da construção civil, garantindo segurança, eficiência e valorização dos empreendimentos. Sua visão é expandir sua participação no mercado e estabelecer uma base sólida de investidores, assegurando a sustentabilidade e lucratividade do negócio ao longo das gerações. Os valores que norteiam suas atividades incluem lealdade, humanidade, respeito, segurança e integridade, princípios fundamentais para a condução ética e transparente de seus projetos.
+
+Atualmente, a empresa enfrenta desafios relacionados à organização e distribuição de Equipamentos de Proteção Individual (EPIs) e ferramentas para seus funcionários nos canteiros de obras. Essa dificuldade impacta a eficiência operacional e a segurança dos trabalhadores, especialmente em projetos de grande porte, como a construção de edifícios e conjuntos habitacionais. Diante desse cenário, há uma necessidade latente de aprimoramento na gestão desses recursos, visando otimizar processos, reduzir desperdícios e garantir maior controle sobre o uso dos equipamentos no ambiente de trabalho.
+
+Além dos desafios operacionais, a Fernandes Prado tem buscado fortalecer seu impacto social por meio da geração de empregos e do desenvolvimento de projetos que promovam o crescimento sustentável das comunidades onde atua. Dessa forma, a empresa se posiciona como um agente ativo na transformação do setor, alinhando suas práticas às demandas contemporâneas do mercado e da sociedade.
+
 
 ## Problema
 Dificuldade de empresas em controlar materiais internos com alta rotatividade utilizados pelos setores de Produção, Assistência Técnica, entre outros. Falta de um sistema simples e integrado de gestão de recursos para empresas que tenham necessidade do empréstimo de recusos aos funcionários, sejam eles físicos ou virtuais.
