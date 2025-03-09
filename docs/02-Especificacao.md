@@ -174,12 +174,13 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |001| O projeto deverá ser entregue até o final do semestre |
 |002| O custo total do projeto não deve exceder o orçamento definido pelo grupo |
-|003| O sistema irá ser desenvolvido utilizando tecnológias previamente decididas ente a equipe|
+|003| O sistema irá ser desenvolvido utilizando tecnológias previamente decididas entre a equipe|
 |004| O projeto deverá ser acessado exclusivamente por navegador web|
 |005| O projeto irá ser desenvolvido seguindo os Requisitos Funcionais e Não funcionais|
 |006| O sistema deverá ser implementado em ambiente de teste |
 |007| As atualizações dos projetos deveram ser lançados apenas com breve autorização do scrum Master |
-|008| Qualquer modificação de projeto, que foge das documentações iniciais deveram ser discutidas junto a todos os membros do projeto, onde será mapiado novos prazos e impactos no projeto.
+|008| Qualquer modificação de projeto, que foge das documentações iniciais deveram ser discutidas junto a todos os membros do projeto, onde será mapiado novos prazos e impactos no projeto.|
+|009| O tempo de resposta do sistema deverá ser viavel, não exceddendo 2 segundos |
 
 ## Diagrama de casos de uso
 
