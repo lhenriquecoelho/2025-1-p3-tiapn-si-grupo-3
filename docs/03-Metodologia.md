@@ -60,9 +60,9 @@ Atualizado em: 07/03/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| Gabriel H     | Requisitos funcionais | 03/03/2024     | 04/03/2024 | ✔️    | 04/02/2024      |
-| Ingrid        | Diagrama de Casos de Uso e Slides    | 05/03/2024     | 09/03/2024 | ✔️     |   07/03/2024                |
-| João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | ✔️     |   07/03/2024               |
+| Gabriel H     | Requisitos funcionais e Restrições | 03/03/2025     | 09/03/2025 | ✔️    | 09/02/2025      |
+| Ingrid        | Diagrama de Casos de Uso e Slides    | 05/03/2025     | 09/03/2025 | ✔️     |   07/03/2025                |
+| João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | ✔️     |   07/03/2025               |
 | Iago M        | Histórias de usuário e Personas  |    05/03/2025        | 09/03/2025 |  ✔️   |   08/03/2025    |
 | João G        | Diagrama de Casos de Uso e Slides  |    05/03/2025        | 09/03/2025 |  ✔️   |   07/03/2025    |
 
