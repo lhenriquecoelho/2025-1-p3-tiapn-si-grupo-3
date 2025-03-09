@@ -180,7 +180,7 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 |006| O sistema deverá ser implementado em ambiente de teste |
 |007| As atualizações dos projetos deveram ser lançados apenas com breve autorização do scrum Master |
 |008| Qualquer modificação de projeto, que foge das documentações iniciais deveram ser discutidas junto a todos os membros do projeto, onde será mapiado novos prazos e impactos no projeto.|
-|009| O tempo de resposta do sistema deverá ser viavel, não exceddendo 2 segundos |
+|009| O tempo de resposta do sistema deverá ser viável, não excedendo 2 segundos |
 
 ## Diagrama de casos de uso
 
