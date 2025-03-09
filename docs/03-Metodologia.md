@@ -64,6 +64,7 @@ Atualizado em: 07/03/2024
 | Ingrid        | Diagrama de Casos de Uso e Slides    | 05/03/2024     | 09/03/2024 | ✔️     |   07/03/2024                |
 | João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | ✔️     |   07/03/2024               |
 | Iago M        | Histórias de usuário e Personas  |    05/03/2025        | 09/03/2025 |  ✔️   |   08/03/2025    |
+| João G        | Diagrama de Casos de Uso e Slides  |    05/03/2025        | 09/03/2025 |  ✔️   |   07/03/2025    |
 
 #### Sprint 2
 
