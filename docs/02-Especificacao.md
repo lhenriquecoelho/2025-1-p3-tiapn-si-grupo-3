@@ -143,8 +143,15 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA | 
-|RNF-002| Deve processar as requisições do usuário em no máximo 3 segundos |  BAIXA | 
+|RNF-001| O sistema deve processar as requisições do usuário em no máximo 3 segundos | BAIXA | 
+|RNF-002| O sistema deve estar disponível 99% do tempo, garantindo acesso contínuo aos usuários, salvo períodos de manutenção planejada |  MÉDIA | 
+|RNF-003|O sistema deve ser acessível via navegador web em dispositivos desktop e mobile, garantindo compatibilidade com os principais navegadores (Chrome, Edge, Firefox, Safari) | MÉDIA | 
+|RNF-004| O sistema deve ser capaz de suportar um crescimento de até 500 usuários simultâneos sem degradação de desempenho |  BAIXA | 
+|RNF-005| O sistema deve realizar backups automáticos diários dos dados para evitar perda de informações em caso de falhas | BAIXA | 
+|RNF-006| O sistema deve seguir normas de proteção de dados e LGPD (Lei Geral de Proteção de Dados) no Brasil, garantindo a privacidade e segurança das informações dos clientes |  ALTA | 
+|RNF-007| As páginas e funcionalidades do sistema devem carregar em no máximo 3 segundos | BAIXA | 
+|RNF-008| O sistema deve contar com mecanismos para recuperação de falhas, evitando perda de dados em caso de queda de servidor ou erros inesperados |  ALTA | 
+|RNF-009| O sistema deve permitir integração com outras plataformas de gestão empresarial ERP | BAIXA | 
 
 Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
