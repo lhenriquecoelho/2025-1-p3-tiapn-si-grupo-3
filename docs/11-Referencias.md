@@ -9,6 +9,9 @@
 - Arcanjo António David, O. (2022, fevereiro 25). Requisitos funcionais. DEV Community. https://dev.to/ortizdavid/requisitos-funcionais-59ko
 
 - Nader, D. (2024, junho 26). MEs: 76% não possuem nenhum sistema para a gestão dos negócios. Contábeis. https://www.contabeis.com.br/noticias/65816/pmes-76-nao-possuem-nenhum-sistema-para-a-gestao-dos-negocios/?utm_source=chatgpt.com
+  
+- REIS, Fábio dos. Curso de UML - Diagrama de Casos de Uso - Exemplo Básico, 2019. Disṕnível em: https://www.youtube.com/watch?v=tezLX9quOVc&t=828s. Acesso em: 06 março. 2025.
+
 
 > **Links úteis**:
 > - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
