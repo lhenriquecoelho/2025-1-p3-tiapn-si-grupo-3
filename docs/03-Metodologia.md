@@ -65,6 +65,7 @@ Atualizado em: 10/03/2024
 | João       | Histórias de usuário e Personas  | 05/03/2025     | 09/03/2025 | ✔️     |   07/03/2025               |
 | Iago M        | Histórias de usuário e Personas  |    05/03/2025        | 09/03/2025 |  ✔️   |   08/03/2025    |
 | João G        | Diagrama de Casos de Uso e Slides  |    05/03/2025        | 09/03/2025 |  ✔️   |   07/03/2025    |
+| Luiz H       | Requisitos não funcionais e Restrições  |    03/03/2025        | 13/03/2025 |  ✔️   |   11/03/2025    |
 
 #### Sprint 2
 
