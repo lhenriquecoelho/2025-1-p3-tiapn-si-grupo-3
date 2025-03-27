@@ -45,10 +45,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 - Documentação: Luiz e Gabriel
 
 #### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: João Felipe
+- Modelagem _Processo 1_: Gabriel, Ingrid Yara, João Gabriel
+- Modelagem _Processo 2_: João Felipe, Luiz Henrique e Iago Moysés
+- Slides: Ingrid Yara
+
 
 ###  Quadro de tarefas
 
@@ -73,11 +74,12 @@ Atualizado em: 21/04/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Página inicial   | 01/02/2024     | 07/03/2024 | ✔️    | 05/02/2024      |
-| AlunaZ        | CSS unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
-
+| Gabriel H.    | Página inicial   | 01/02/2025     | 07/03/2025 | ✔️    | 05/02/2024      |
+| Iago M.       | CSS unificado    | 03/02/2025     | 10/03/2025 | 📝    |                 |
+| Ingrid Y.     | Página de login  | 01/02/2025     | 07/03/2025 | ⌛     |                 |
+|João F.        | Diagrama 2       |  01/01/2025    | 09/04/2025 | ❌    |       |
+|João G.        | Script de login  |  27/03/2025    | 12/03/2025 | ❌    |       |
+|Luiz H.        | Script de login  |  01/01/2025    | 12/03/2025 | ❌    |       |
 
 Legenda:
 - ✔️: terminado
