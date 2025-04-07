@@ -16,12 +16,13 @@ Além dos desafios operacionais, a Fernandes Prado tem buscado fortalecer seu im
 
 
 ## Problema
-Dificuldade de empresas em controlar materiais internos com alta rotatividade utilizados pelos setores de Produção, Assistência Técnica, entre outros. Falta de um sistema simples e integrado de gestão de recursos para empresas que tenham necessidade do empréstimo de recusos aos funcionários, sejam eles físicos ou virtuais.
+As empresas enfrentam dificuldades no controle de materiais internos com alta rotatividade, especialmente nos setores de Produção, Assistência Técnica e afins. A ausência de um sistema simples, intuitivo e integrado de gestão de recursos compromete a eficiência das operações, sobretudo em contextos nos quais há a necessidade de empréstimo de itens — físicos ou virtuais — aos colaboradores. Essa lacuna operacional pode resultar em perdas, retrabalho, baixa rastreabilidade e falhas na gestão dos ativos da organização.
 
 ## Objetivos
 
-Desenvolver aplicação da nossa empresa, Manejo GR, que oferecerá serviço para controle de materiais e produtos de forma eficiente e simplificada com as etapas do processo que o usuário deseja realizar;
-Os integrantes do grupo devem desenvolver habilidades em gestão e organização de projetos, modelagem de processos de negócios, programação front-end, back-end, gerenciamento de banco de dados, além das  demais habilidades necessárias em aplicações para processos de negócios com trabalho em equipe.
+Desenvolver a aplicação da empresa Manejo GR, com o objetivo de oferecer um serviço eficiente e simplificado para o controle de materiais e produtos, estruturado de acordo com as etapas do processo definidas pelo próprio usuário.
+
+Além disso, os integrantes do grupo deverão aprimorar competências em gestão e organização de projetos, modelagem de processos de negócios, desenvolvimento front-end e back-end, gerenciamento de banco de dados, bem como outras habilidades essenciais para o desenvolvimento de aplicações voltadas à automação de processos empresariais, com foco no trabalho colaborativo.
 
 ## Justificativa
 
@@ -35,4 +36,4 @@ O tipo de solução que será implementada atende a variados setores, todos com 
 
 ## Público-alvo
 
-Empresas e empreendedores individuais que não tenham sistema de controle de materiais digitalizado ou utilizem sistemas baseados em anotações/planilhas pouco intuitivas e funcionais. Independe de faixa etária ou segmento de atuação.
+Empresas e empreendedores individuais que ainda não utilizam sistemas digitalizados para o controle de materiais ou que fazem uso de métodos baseados em anotações manuais e planilhas com baixa usabilidade e funcionalidade. O público-alvo abrange profissionais de todas as faixas etárias e segmentos de atuação, sem restrições quanto ao porte ou área de atividade.
