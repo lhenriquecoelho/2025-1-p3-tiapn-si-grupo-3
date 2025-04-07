@@ -116,8 +116,9 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 
 | Ambiente                            | Plataforma                         | Link de acesso                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de interface                | Figma                              | http://....                            |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | Vercel                             | http://....                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PCO-SI/2025-1-p3-tiapn-si-grupo-3.git            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PCO-SI/2025-1-p3-tiapn-si-grupo-3/tree/main/docs |
+| Slide de Apresentação                | Canva                              |https://www.canva.com/design/DAGhErQqtyw/Gf00ZqT2x5SFzS-EAGICSA/edit               |
+| Gerenciamento do projeto            | GitHub Projects                    |https://github.com/orgs/ICEI-PUC-Minas-PCO-SI/projects/104                          |
+| Criação de Diagramas                 | HEFLO                            | https://app.heflo.com/Home#&logout=true                   |
+| Encontros Online               | Teams                          |https://www.microsoft.com/pt-br/microsoft-teams/log-in                  |
