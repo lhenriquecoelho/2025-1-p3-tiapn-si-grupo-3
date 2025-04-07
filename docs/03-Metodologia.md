@@ -71,7 +71,7 @@ Atualizado em: 21/04/2024
 | Iago M.       | CSS unificado    | 03/02/2025     | 10/03/2025 | 📝    |                 |
 | Ingrid Y.     | Diagrama 1 e Slides  | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
 |João F.        | Diagrama 2       |  29/03/2025    | 10/04/2025 | ✔️ | 03/04/2025       |
-|João G.        | Script de login  |  27/03/2025    | 12/03/2025 | ❌ |       |
+|João G.        | Diagrama 1  |  27/03/2025    | 04/04/2025 | ✔️ | 04/04/2025    |
 |Luiz H.        | Script de login  |  01/01/2025    | 12/03/2025 | ❌ |       |
 
 Legenda:
