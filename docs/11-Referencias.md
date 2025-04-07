@@ -1,18 +1,13 @@
 # Referências
 
-- Rehkopf, P. M. ([s.d.]). Veja templates e exemplos de histórias de usuário. Atlassian. Recuperado 9 de março de 2025, de https://www.atlassian.com/br/agile/project-management/user-stories
+REHKOPF, P. M. Veja templates e exemplos de histórias de usuário. Atlassian, [s.d.]. Disponível em: https://www.atlassian.com/br/agile/project-management/user-stories. Acesso em: 9 mar. 2025.
 
-- Siqueira, A. (2024, agosto 23). Persona: o que é, como definir e por que criar uma para sua empresa [+ exemplos práticos e um gerador]/. RD Station; RD Station Blog. https://www.rdstation.com/blog/marketing/persona-o-que-e/
-  
-- Cunha, F. (2022, dezembro 7). Requisitos funcionais e não funcionais: o que são? Com.br. https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao
+SIQUEIRA, A. Persona: o que é, como definir e por que criar uma para sua empresa [+ exemplos práticos e um gerador]. RD Station Blog, 23 ago. 2024. Disponível em: https://www.rdstation.com/blog/marketing/persona-o-que-e/. Acesso em: 7 abr. 2025.
 
-- Arcanjo António David, O. (2022, fevereiro 25). Requisitos funcionais. DEV Community. https://dev.to/ortizdavid/requisitos-funcionais-59ko
+CUNHA, F. Requisitos funcionais e não funcionais: o que são? Mestres da Web, 7 dez. 2022. Disponível em: https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao. Acesso em: 7 abr. 2025.
 
-- Nader, D. (2024, junho 26). MEs: 76% não possuem nenhum sistema para a gestão dos negócios. Contábeis. https://www.contabeis.com.br/noticias/65816/pmes-76-nao-possuem-nenhum-sistema-para-a-gestao-dos-negocios/?utm_source=chatgpt.com
-  
-- REIS, Fábio dos. Curso de UML - Diagrama de Casos de Uso - Exemplo Básico, 2019. Disṕnível em: https://www.youtube.com/watch?v=tezLX9quOVc&t=828s. Acesso em: 06 março. 2025.
+ARCANJO ANTÓNIO DAVID, O. Requisitos funcionais. DEV Community, 25 fev. 2022. Disponível em: https://dev.to/ortizdavid/requisitos-funcionais-59ko. Acesso em: 7 abr. 2025.
 
+NADER, D. PMEs: 76% não possuem nenhum sistema para a gestão dos negócios. Contábeis, 26 jun. 2024. Disponível em: https://www.contabeis.com.br/noticias/65816/pmes-76-nao-possuem-nenhum-sistema-para-a-gestao-dos-negocios/?utm_source=chatgpt.com. Acesso em: 7 abr. 2025.
 
-> **Links úteis**:
-> - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
+REIS, F. dos. Curso de UML - Diagrama de Casos de Uso - Exemplo Básico. YouTube, 2019. Disponível em: https://www.youtube.com/watch?v=tezLX9quOVc&t=828s. Acesso em: 6 mar. 2025.
