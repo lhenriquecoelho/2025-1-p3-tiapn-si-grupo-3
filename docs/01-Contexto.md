@@ -25,9 +25,13 @@ Os integrantes do grupo devem desenvolver habilidades em gestão e organização
 
 ## Justificativa
 
-Os usuários precisam que os dados se relacionem de forma prática e fácil.
-A implementação de um sistema de gestão de recursos internos e ativos permite o controle preciso de materiais, ferramentas e outros recursos utilizados pelos funcionários para a realização de suas tarefas, garantindo a produtividade e a qualidade dos processos.
-O tipo de solução que será implementada está ligada a variados setores, todos têm em comum a necessidade de verificar etapas de controle de materiais, apontando produtos, datas de entrada e saída de cada item além do relacionamento simplificado de informações.
+Os usuários precisam que os dados se relacionem de maneira prática e intuitiva. A implementação de um sistema de gestão de recursos internos e ativos permite o controle preciso de materiais, ferramentas e demais recursos utilizados pelos colaboradores na realização de suas atividades, promovendo a produtividade e a qualidade dos processos.
+
+Segundo o Sebrae (2024), 76% das pequenas e médias empresas brasileiras não utilizam qualquer tipo de sistema informatizado de gestão, e 15% ainda dependem de controles manuais em papel, o que evidencia a carência de soluções acessíveis, simples e eficazes para o controle de recursos. Essa realidade revela não apenas uma limitação tecnológica, mas também um risco operacional considerável, já que a ausência de controle digital pode resultar em perda de insumos, atrasos em processos, baixa rastreabilidade e aumento de custos operacionais.
+
+Além disso, de acordo com uma pesquisa da FGV-SP (2023), empresas que adotam sistemas de gestão integrados reduzem em até 30% o desperdício de materiais e conseguem aumentar em até 25% a eficiência das equipes operacionais. Tais benefícios reforçam a necessidade de digitalização e automação em ambientes com alta rotatividade de ferramentas e equipamentos, como ocorre em empresas do setor da construção civil.
+
+O tipo de solução que será implementada atende a variados setores, todos com a necessidade comum de verificar etapas de controle de materiais, apontando produtos, datas de entrada e saída de cada item, além do relacionamento simplificado e estruturado das informações. Portanto, o desenvolvimento da aplicação Manejo GR se justifica como uma resposta eficiente e acessível à lacuna existente no mercado, contribuindo diretamente para o aumento da competitividade e sustentabilidade dos negócios atendidos.
 
 ## Público-alvo
 
