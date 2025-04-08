@@ -63,14 +63,14 @@ Atualizado em: 10/03/2024
 
 #### Sprint 2
 
-Atualizado em: 21/04/2024
+Atualizado em: 08/04/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Gabriel H.    | Página inicial   | 01/02/2025     | 07/03/2025 | ✔️    | 05/02/2024      |
 | Iago M.       | CSS unificado    | 03/02/2025     | 10/03/2025 | 📝    |                 |
 | Ingrid Y.     | Diagrama 1 e Slides  | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
-|João F.        | Diagrama 2       |  29/03/2025    | 10/04/2025 | ✔️ | 03/04/2025       |
+|João F.        | Diagrama 2, Metodologias e Relatório Extensão     |  29/03/2025    | 10/04/2025 | ✔️ | 03/04/2025       |
 |João G.        | Diagrama 1  |  27/03/2025    | 04/04/2025 | ✔️ | 04/04/2025    |
 |Luiz H.        | Script de login  |  01/01/2025    | 12/03/2025 | ❌ |       |
 
