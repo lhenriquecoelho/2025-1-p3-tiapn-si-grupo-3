@@ -1,6 +1,6 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.2 Processo 2 – AS - IS PROCESSO DE COMPRA DE MATERIAL
  
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
+Processo de compra de material. Esse é o AS-IS (Processo atual na empresa). Pode-se notar alguns pontos claros de melhoria, não há verificação do estoque e não há uma clara rastreabilidade do processo, e o principal, as tarefas são feitas de maneira muito manual. É notável que a automatização de tarefas traria muitos benefícios.
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
 
 ![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
@@ -37,13 +37,13 @@ _* **Link** - campo que armazena uma URL_
 
 _* **Tabela** - campo formado por uma matriz de valores_
 
-**Nome da atividade 1**
+**Enviar Requisição**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
+| nome_solic      | Caixa de Texto   |  Obrigatório   |                   |
+|   |                  |                |                   |
+| telefone        | Caixa de Texto   | formato (99)999999999|             |
 | senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
