@@ -6,19 +6,21 @@
 
 Para o processo de fluxo de ferramentas entre funcionários é feito da seguinte forma: O funcionário retira a ferramenta, registra a retirada, logo em seguida usa a ferramenta e a devolve após desfrutar de seu uso e assim o processo é encerrado.
 
-Para o processo de compra de materiais funciona da seguinte forma: O funcionário de campo envia a requisição do material faltante e em seguida o escritório recebe esta requisição e a aprova, nesse momento faz um levantamento orçamentário da compra do material requisitado contatando o fornecedor e recebendo sua resposta, caso o orçamento inicial não seja aprovado a tarefa se repete, no momento em que o orçamento é aprovado pelo escritório o processo de compra do material é iniciado, e a seguir é feito o processamento de compra pelo fornecedor, e em seguida gera o documento da nota fiscal, essa nota fiscal é enviada ao funcionário de campo que requisitou a compra dos materiais após ter informado que a compra foi feita, este então confere a nota fiscal e se ela estiver errada o processo de gerar nota fiscal acontece novamente e se ela estiver correta o processo de compra é encerrado.
-
 ![Imagem do WhatsApp de 2025-04-02 à(s) 19 52 20_0797c325](https://github.com/user-attachments/assets/adf81594-a9c7-4d84-b442-935aa5945767)
+
+Para o processo de compra de materiais funciona da seguinte forma: O funcionário de campo envia a requisição do material faltante e em seguida o escritório recebe esta requisição e a aprova, nesse momento faz um levantamento orçamentário da compra do material requisitado contatando o fornecedor e recebendo sua resposta, caso o orçamento inicial não seja aprovado a tarefa se repete, no momento em que o orçamento é aprovado pelo escritório o processo de compra do material é iniciado, e a seguir é feito o processamento de compra pelo fornecedor, e em seguida gera o documento da nota fiscal, essa nota fiscal é enviada ao funcionário de campo que requisitou a compra dos materiais após ter informado que a compra foi feita, este então confere a nota fiscal e se ela estiver errada o processo de gerar nota fiscal acontece novamente e se ela estiver correta o processo de compra é encerrado.
 
 ![Imagem do WhatsApp de 2025-04-07 à(s) 14 00 53_757b960f](https://github.com/user-attachments/assets/363e9584-b8cc-4b1f-af2b-f0aa48cf064a)
 
 ## Descrição geral da proposta (Modelagem TO BE)
 
-Tendo identificado os gargalos dos modelos AS-IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido.
+Para o processo de fluxo de ferramentas entre funcionários foi proposto modelo com melhorias do processo, em que, ao retirar a ferramenta para empréstimo, o próprio funcionário gera um relatório de empréstimo, em um registro formal documentado, ao invés de simples anotação. Outra melhoria é para a verificação após o período de 48 horas se a ferramenta ainda está sendo utilizada por esse funcionário, caso esteja sendo utilizada, passa por atualização no sistema de empréstimo. Caso não esteja sendo utilizada será devolvida sendo atualizado o sistema de emprestimo, gerando comprovante de devolução. Ainda há verificação se a ferramenta foi perdida, nesse caso deve ser relatada a perda, também em registro formal. Essas melhorias otimizam o controle sobre a localização das ferramentas, realizando periodicamente novos registros sobre a situação atual dos materiais, dentro de um tempo aceitável.
 
-Cole aqui os modelos da solução proposta (modelo TO-BE), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina. Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
+![TO-BE - Processo 1](https://github.com/user-attachments/assets/77a6eae2-1979-4d32-93c5-13e8fa5a22ac)
 
-Apresente aqui uma descrição da sua proposta, abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente também as oportunidades de melhoria.
+Para o processo de compra de materiais, como na empresa já existe um processo bem definido e funcional, foi incluída apenas uma tarefa após o início do processo, que é a tarefa sistêmica de notificação sobre baixo estoque. Dessa forma, os funcionários saberão de antemão que é necessário solicitar compra de determinado material, assim seguindo para tarefa de enviar requisição ao escritório, que é responsável pelas aquisições e assim por diante, seguindo o fluxo normal do processo, mas otimizando assim o tempo de espera entre a falta em estoque e a necessidade de uso.
+
+![TO-BE - Processo 2](https://github.com/user-attachments/assets/3fd0cb72-f7d5-474b-b59b-e38445cffe1e)
 
 ## Modelagem dos processos
 
