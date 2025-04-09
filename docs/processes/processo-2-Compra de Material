@@ -54,14 +54,54 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 
 
-**Nome da atividade 2**
+**Atividade 2 - Aprovar Requisição**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
+| aprovacao | Seleção única  |   Obrigatório             |                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+| Aprovar | Levantar orçamento  | default |
 |                      |                                |                   |
+
+
+
+**Atividade 3 - Levantar Orçamento**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| dados_fornecedor | Tabela  |   Obrigatório             |                   |
+| valor | Caixa de texto  |   Obrigatório             |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Enviar | Exclusive (Orçamento Aprovado)  | default |
+|                      |                                |                   |
+
+
+
+**Atividade 3 - Comprar material**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| dados_pagamento | Tabela  |   Obrigatório             |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Enviar | Processar compra  | default |
+|                      |                                |                   |
+
+
+
+**Atividade 4 - Conferir nota fiscal**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| validacao | Seleção única  |   Obrigatório             |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Enviar | Exclusive (Nota fiscal correta?  | default |
+|                      |                                |                   |
+
