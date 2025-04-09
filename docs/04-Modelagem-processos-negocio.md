@@ -4,7 +4,7 @@
 
 ## Modelagem da situação atual (Modelagem AS IS)
 
-Para o processo de fluxo de ferramentas entre funcionários é feito da seguinte forma: O funcionário retira a ferramenta, registra a retirada, logo em seguida usa a ferramenta e a devolve após desfrutar de seu uso e assim o processo é encerrado.
+Para o processo de fluxo de ferramentas entre funcionários é feito da seguinte forma: O funcionário retira a ferramenta, registra a retirada gerando um documento do registro de empréstimo, logo em seguida usa a ferramenta e após 48 horas devolve ou não a ferramenta, caso continue com a ferramenta, ele atualiza o tempo de devolução da ferramenta no relatório de empréstimo gerando um novo registro, no momento que devolver a ferramenta, o relatório de empréstimo é atualizado e, assim, o processo é encerrado.
 
 ![Imagem do WhatsApp de 2025-04-02 à(s) 20 41 26_2d1a5205](https://github.com/user-attachments/assets/04b12554-ef6e-4aca-af27-ea7f59796b2b)
 
