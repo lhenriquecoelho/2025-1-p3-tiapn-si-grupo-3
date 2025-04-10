@@ -45,9 +45,9 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | login           | Caixa de Texto   | formato de e-mail |                |
 | senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
-| **Comandos**         |  **Destino**                           | **Tipo**            |
-|    ---            |  |    ---              | ---
-|Enviar| Incia a atividade de usar a ferramenta   | (default/cancel/  ) |
+| **Comandos**         |  **Destino**             | **Tipo**            |
+|    ---               |  ---                     |    ---              | 
+| Enviar | Incia a atividade de usar a ferramenta | (default/cancel/  ) |
 | ***Exemplo:***       |                                        |                     | 
 | entrar               | Fim do Processo 1                      | default             |
 | cadastrar            | Início do proceso de cadastro          |                     |
