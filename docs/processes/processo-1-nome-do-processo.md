@@ -40,7 +40,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-|    Nome    | Caixa de Texto    |                |                   |
+|    Nome    | Caixa de Texto    |       50 caracteres         |                   |
 |    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
 |    Relatório    | Área de Texto    |                |                   |
 
@@ -52,7 +52,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-|    Nome    | Caixa de Texto    |                |                   |
+|    Nome    | Caixa de Texto    |  50 caracteres     |                   |
 |    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
 |    Relatório    | Área de Texto    |                |                   |
 
@@ -65,7 +65,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-|    Nome    | Caixa de Texto    |                |                   |
+|    Nome    | Caixa de Texto    |   50 caracteres    |                   |
 |    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
 |    Relatório    | Área de Texto    |                |                   |
 
