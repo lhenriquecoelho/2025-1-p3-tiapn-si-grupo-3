@@ -46,7 +46,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
-|    Enviar            |Incia a atividade de usar a ferramenta| ---               |
+|    Enviar            | Incia a atividade de usar a ferramenta | --- |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 | ***Exemplo:***       |                                |                   |
 | entrar               | Fim do Processo 1              | default           |
