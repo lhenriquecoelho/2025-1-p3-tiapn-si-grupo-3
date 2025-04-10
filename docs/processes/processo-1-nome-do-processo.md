@@ -70,8 +70,8 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Sim | Inicia a ativdade de relatar perda de ferramenta  | (default/cancel/  ) |
-| Não | Inicia a atividade de atualizar o empréstimo de ferramenta (após a devolução) |                   |
+| Sim | Inicia a ativdade de relatar perda de ferramenta  | seleção única |
+| Não | Inicia a atividade de atualizar o empréstimo de ferramenta (após a devolução) | seleção única |
 
 **Atualizar Empréstimo de ferramenta (após a devolução) 4**
 
