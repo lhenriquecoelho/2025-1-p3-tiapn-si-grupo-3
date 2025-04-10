@@ -40,6 +40,8 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
+|    Nome    | Caixa de Texto    |                |                   |
+|    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
 |    Relatório    | Área de Texto    |                |                   |
 
 | **Comandos**         |  **Destino**             | **Tipo**            |
@@ -50,7 +52,9 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| Relatório | Área de Texto |                |                   |
+|    Nome    | Caixa de Texto    |                |                   |
+|    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
+|    Relatório    | Área de Texto    |                |                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
@@ -61,6 +65,19 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
+|    Nome    | Caixa de Texto    |                |                   |
+|    Dia da retirada  | Data   | tem que ser a data do dia da retirada |  |
+|    Relatório    | Área de Texto    |                |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+|                      |                                |                   |
+
+**Nome da atividade 4**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
 |                 |                  |                |                   |
 
@@ -68,4 +85,3 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 |                      |                                |                   |
-
