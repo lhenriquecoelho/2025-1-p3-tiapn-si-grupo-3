@@ -1,7 +1,6 @@
 ### 3.3.1 Processo 1 – Empréstimo de Ferramenta
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 1. 
-Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN._
+O nome do processo é "Empréstimo de Ferramenta", as melhorias adicionadas a ele são: adição de um sistema que armazena o relatório de empréstimo de cada ferramenta, um tempo máximo de uso para cada instrumento, sendo que após o término do período o funcionário deve atualizar o relatório de empréstimo da ferramenta, a adição de uma nova tarefa caso o operário venha perder a instrumento que está utilizando e por fim a geração automática de comprovante, após o funcionário devolver a ferramenta.
  
 ![Exemplo de um Modelo BPMN do PROCESSO 1](../images/TO-BE-emprestimo-ferramenta.png)
 
