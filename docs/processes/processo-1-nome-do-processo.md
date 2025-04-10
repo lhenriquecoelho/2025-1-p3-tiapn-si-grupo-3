@@ -85,17 +85,17 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+| Enviar | Fim do processo | (default) |
 |                      |                                |                   |
 
-**Nome da atividade 5**
+**Devolver Ferramenta 5**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
+| A ferramenta foi perdida? | Seleção única |                |                   |
 |                 |                  |                |                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
+| Sim | Inicia a ativdade de relatar perda de ferramenta  | (default/cancel/  ) |
+| Não | Inicia a ativdade de atualizar o empréstimo de ferramenta (após a devolução) |                   |
