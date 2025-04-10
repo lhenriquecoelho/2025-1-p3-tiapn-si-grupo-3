@@ -25,7 +25,7 @@ Para o processo de compra de materiais, como na empresa já existe um processo b
 
 ## Modelagem dos processos
 
-[PROCESSO 1 - Nome do processo](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
+[PROCESSO 1 - Empréstimo de Ferramentas](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
 
 [PROCESSO 2 - Compra de Material](./processes/processo-2-nome-do-processo.md "Detalhamento do processo 2.")
 
