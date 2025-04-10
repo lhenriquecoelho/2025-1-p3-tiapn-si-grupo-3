@@ -27,7 +27,7 @@ Para o processo de compra de materiais, como na empresa já existe um processo b
 
 [PROCESSO 1 - Nome do processo](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
 
-[PROCESSO 2 - Compra de Material](./processes/processo-2-Compra-de-Material.md "Detalhamento do processo 2.")
+[PROCESSO 2 - Compra de Material](docs/processes/processo-2-Compra-de-Material "Detalhamento do processo 2.")
 
 
 ## Indicadores de desempenho
