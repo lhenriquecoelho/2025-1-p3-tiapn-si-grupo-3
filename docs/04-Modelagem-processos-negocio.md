@@ -39,9 +39,9 @@ Use o seguinte modelo:
 
 | **Indicador** | **Objetivos** | **Descrição** | **Fonte de dados** | **Fórmula de cálculo** |
 | ---           | ---           | ---           | ---             | ---             |
-| Tempo de uso de ferramentas entre os funcionarios | Verificar se o tempo de uso está dentro do esperado | Mede quanto tempo, em média, as ferramentas ficam com os funcionários | Tabela Empréstimos / Log de Retirada e Devolução | soma de (hora da devolução - hora da retirada) / número total de usos |
-| Taxa de requisições atendidas | Melhorar a prestação de serviços medindo a porcentagem de requisições atendidas| Mede a % de requisições atendidas na semana | Tabela Solicitações | (número de requisições atendidas / número total de requisições) * 100 |
-| Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês | Tabela Pedidos | (número de pedidos entregues / número total de pedidos) * 100 |
+| Tempo de uso de ferramentas entre os funcionarios | Verificar se o tempo de uso esta dentro do esperado | Mede quanto tempo, em média, as ferramentas ficam com os funcionários | Tabela Empréstimos / Log de Retirada e Devolução | soma de (hora da devolução - hora da retirada) / número total de usos |
+| Percentual de ferramentas não devolvidas | Monitorar perdas ou esquecimentos de devolução| Mede a % de ferramentas que foram retiradas e ainda não devolvidas | Tabela de Empréstimos | (número de ferramentas não devolvidas / número total de retiradas) * 100 |
+| Percentual de devoluções fora do prazo | Avaliar o cumprimento dos prazos estabelecidos de devolução | Mede quantas devoluções aconteceram após o tempo permitido | Tabela Empréstimos / Regras de Tempo de Uso | (número de devoluções atrasadas / total de devoluções) * 100 |
 
 
 Obs.: todas as informações necessárias para gerar os indicadores devem estar no diagrama de classe a ser apresentado posteriormente.
