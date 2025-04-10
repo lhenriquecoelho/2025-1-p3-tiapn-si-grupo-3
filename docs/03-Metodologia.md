@@ -68,7 +68,7 @@ Atualizado em: 10/04/2025
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Gabriel H.    | Diagrama 1 e Indicadores de Desempenho   | 05/04/2025     | 10/04/2025 | ✔️    | 10/04/2024      |
-| Iago M.       | CSS unificado    | 03/02/2025     | 10/03/2025 | 📝    |                 |
+| Iago M.       | Diagrama 2 e especificação do diagrama    | 29/03/2025     | 10/04/2025 | ✔️    | 10/04/2025                |
 | Ingrid Y.     | Diagrama 1 e Slides  | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
 |João F.        | Diagrama 2, Metodologias e Relatório Extensão     |  29/03/2025    | 10/04/2025 | ✔️ | 03/04/2025       |
 |João G.        | Diagrama 1 e preenchimento da descrição do AS-Is no Git  |  27/03/2025    | 04/04/2025 | ✔️ | 04/04/2025    |
