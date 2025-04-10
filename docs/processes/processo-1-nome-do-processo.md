@@ -61,7 +61,19 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Enviar |Inicia a atividade de usar a ferramenta novamente  | (default) |
 |                      |                                |                   |
 
-**Atualizar Empréstimo de ferramenta (após a devolução) 3**
+**Devolver Ferramenta 3**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| A ferramenta foi perdida? | Seleção única |                |                   |
+|                 |                  |                |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Sim | Inicia a ativdade de relatar perda de ferramenta  | (default/cancel/  ) |
+| Não | Inicia a atividade de atualizar o empréstimo de ferramenta (após a devolução) |                   |
+
+**Atualizar Empréstimo de ferramenta (após a devolução) 4**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
@@ -74,7 +86,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Enviar |Inicia a atividade de comprovante de devolução  | (default) |
 |                      |                                |                   |
 
-**Relatar Perda de Ferramenta 4**
+**Relatar Perda de Ferramenta 5**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
@@ -88,14 +100,4 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Enviar | Fim do processo | (default) |
 |                      |                                |                   |
 
-**Devolver Ferramenta 5**
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| A ferramenta foi perdida? | Seleção única |                |                   |
-|                 |                  |                |                   |
-
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| Sim | Inicia a ativdade de relatar perda de ferramenta  | (default/cancel/  ) |
-| Não | Inicia a ativdade de atualizar o empréstimo de ferramenta (após a devolução) |                   |
