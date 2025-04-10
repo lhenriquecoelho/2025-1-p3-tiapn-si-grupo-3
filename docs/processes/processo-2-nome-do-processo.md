@@ -2,7 +2,7 @@
  
 Processo de compra de material. Esse é o TO-BE (Processo que desejamos implementar). É de extremo interesse melhorar o processo da empresa no que diz respeito a automação, e principalmente, rastreabilidade do processo. Pra isso, desejamos implementar uma verificação de baixo estoque, além de automatizar o processo, que atualmente é feito sem um sistema único.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 2](../images/TO - BE PROCESSO DE COMPRA DE MATERIAIS "Modelo BPMN do Processo 2.")
 
 
 #### Detalhamento das atividades
