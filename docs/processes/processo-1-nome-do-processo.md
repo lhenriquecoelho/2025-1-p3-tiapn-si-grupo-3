@@ -61,7 +61,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Enviar |Inicia a atividade de usar a ferramenta novamente  | (default) |
 |                      |                                |                   |
 
-**Nome da atividade 3**
+**Atualizar Empréstimo de ferramenta (após a devolução) 3**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
@@ -71,10 +71,24 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
+| Enviar |Inicia a atividade de comprovante de devolução  | (default) |
+|                      |                                |                   |
+
+**Relatar Perda de Ferramenta 4**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Nome | Caixa de texto  |    50 caracteres           |                   |
+| Descrição da ferramenta    |      Área de texto     |                |  |
+| Data da perda    |    Data  |                |  |
+| Último local vista    |    Área de texo  |                |  |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 |                      |                                |                   |
 
-**Nome da atividade 4**
+**Nome da atividade 5**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
