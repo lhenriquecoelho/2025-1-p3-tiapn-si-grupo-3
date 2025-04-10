@@ -47,7 +47,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**             | **Tipo**            |
 |    ---               |  ---                     |    ---              | 
 | Enviar | Inicia a atividade de usar a ferramenta | (default) |
-| Cancelar | nenhum | (default) |
+| Cancelar | Retirar ferramenta | (default) |
 
 **Atualizar Empréstimo de ferramenta 2**
 
@@ -60,7 +60,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Enviar |Inicia a atividade de usar a ferramenta novamente  | (default) |
-| Cancelar | nenhum | (default) |
+| Cancelar | Volta para a decisão de continuar ou não usando a ferramenta | (default) |
 
 **Devolver Ferramenta 3**
 
@@ -73,7 +73,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---                  | ---                            | ---               |
 | Sim | Inicia a ativdade de relatar perda de ferramenta  | seleção única |
 | Não | Inicia a atividade de atualizar o empréstimo de ferramenta (após a devolução) | seleção única |
-| Cancelar | nenhum | (default) |
+| Cancelar | Volta para a decisão de continuar ou não usando a ferramenta  | (default) |
 
 **Atualizar Empréstimo de ferramenta (após a devolução) 4**
 
@@ -86,7 +86,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Enviar |Inicia a atividade de comprovante de devolução  | (default) |
-| Cancelar | nenhum | (default) |
+| Cancelar | Volta para a decisão de relatar ou não a perda da ferramenta  | (default) |
 
 **Relatar Perda de Ferramenta 5**
 
@@ -100,6 +100,6 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Enviar | Fim do processo | (default) |
-| Cancelar | nenhum | (default) |
+| Cancelar | Volta para a decisão de relatar ou não a perda da ferramenta | (default) |
 
 
