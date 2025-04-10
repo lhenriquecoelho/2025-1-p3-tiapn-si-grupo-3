@@ -43,6 +43,7 @@ Use o seguinte modelo:
 | Percentual de ferramentas não devolvidas | Monitorar perdas ou esquecimentos de devolução| Mede a % de ferramentas que foram retiradas e ainda não devolvidas | Tabela de Empréstimos | (número de ferramentas não devolvidas / número total de retiradas) * 100 |
 | Percentual de devoluções fora do prazo | Avaliar o cumprimento dos prazos estabelecidos de devolução | Mede quantas devoluções aconteceram após o tempo permitido | Tabela Empréstimos / Regras de Tempo de Uso | (número de devoluções atrasadas / total de devoluções) * 100 |
 | Tempo médio de aprovação de compra | Reduzir burocracia e agilizar o processo |Mede o tempo médio entre a solicitação e a aprovação da compra | Tabela de Solicitações / Log de Aprovação | soma dos tempos entre solicitação e aprovação / número de solicitações |
+|Controlar o orçamento da empresa|Mede o valor médio gasto em cada compra realizada| Tabela de Pedidos / Tabela Financeira | soma dos valores dos pedidos / número de pedidos|
 
 
 Obs.: todas as informações necessárias para gerar os indicadores devem estar no diagrama de classe a ser apresentado posteriormente.
