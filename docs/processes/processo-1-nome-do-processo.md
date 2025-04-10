@@ -41,17 +41,10 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 |    Relatório    | Área de Texto    |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
 | **Comandos**         |  **Destino**             | **Tipo**            |
 |    ---               |  ---                     |    ---              | 
 | Enviar | Incia a atividade de usar a ferramenta | (default/cancel/  ) |
-| ***Exemplo:***       |                                        |                     | 
-| entrar               | Fim do Processo 1                      | default             |
-| cadastrar            | Início do proceso de cadastro          |                     |
-
 
 **Nome da atividade 2**
 
@@ -64,3 +57,16 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 |                      |                                |                   |
+
+**Nome da atividade 3**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| [Nome do campo] | [tipo de dados]  |                |                   |
+|                 |                  |                |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+|                      |                                |                   |
+
