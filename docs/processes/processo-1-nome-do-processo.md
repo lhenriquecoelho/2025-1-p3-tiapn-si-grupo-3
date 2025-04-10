@@ -44,18 +44,17 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**             | **Tipo**            |
 |    ---               |  ---                     |    ---              | 
-| Enviar | Incia a atividade de usar a ferramenta | (default/cancel/  ) |
+| Enviar | Inicia a atividade de usar a ferramenta | (default) |
 
-**Nome da atividade 2**
+**Atualizar Empréstimo de ferramenta 2**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
+| Relatório | Área de Texto |                |                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+| Enviar |Inicia a atividade de usar a ferramenta novamente  | (default) |
 |                      |                                |                   |
 
 **Nome da atividade 3**
