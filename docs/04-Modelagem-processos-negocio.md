@@ -42,6 +42,7 @@ Use o seguinte modelo:
 | Tempo de uso de ferramentas entre os funcionarios | Verificar se o tempo de uso esta dentro do esperado | Mede quanto tempo, em média, as ferramentas ficam com os funcionários | Tabela Empréstimos / Log de Retirada e Devolução | soma de (hora da devolução - hora da retirada) / número total de usos |
 | Percentual de ferramentas não devolvidas | Monitorar perdas ou esquecimentos de devolução| Mede a % de ferramentas que foram retiradas e ainda não devolvidas | Tabela de Empréstimos | (número de ferramentas não devolvidas / número total de retiradas) * 100 |
 | Percentual de devoluções fora do prazo | Avaliar o cumprimento dos prazos estabelecidos de devolução | Mede quantas devoluções aconteceram após o tempo permitido | Tabela Empréstimos / Regras de Tempo de Uso | (número de devoluções atrasadas / total de devoluções) * 100 |
+| Tempo médio de aprovação de compra | Reduzir burocracia e agilizar o processo |Mede o tempo médio entre a solicitação e a aprovação da compra | Tabela de Solicitações / Log de Aprovação | soma dos tempos entre solicitação e aprovação / número de solicitações |
 
 
 Obs.: todas as informações necessárias para gerar os indicadores devem estar no diagrama de classe a ser apresentado posteriormente.
