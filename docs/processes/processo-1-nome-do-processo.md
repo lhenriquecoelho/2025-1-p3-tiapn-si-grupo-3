@@ -47,7 +47,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**             | **Tipo**            |
 |    ---               |  ---                     |    ---              | 
 | Enviar | Inicia a atividade de usar a ferramenta | (default) |
-| Cancelar | Retirar ferramenta | (default) |
+| Cancelar | Volta para a atividade de retirar ferramenta | (default) |
 
 **Atualizar Empréstimo de ferramenta 2**
 
