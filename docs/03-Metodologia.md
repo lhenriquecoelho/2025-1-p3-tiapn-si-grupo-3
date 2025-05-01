@@ -80,6 +80,25 @@ Legenda:
 - ⌛: atrasado
 - ❌: não iniciado
 
+#### Sprint 3
+
+Atualizado em: 10/04/2025
+
+| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
+| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
+| Gabriel H.    | Projeto Wireframe e Userflow   | 29/04/2025     | 07/05/2025 | 📝    | --------    |
+| Iago M.       | Diagrama 2 e especificação do diagrama    | 29/03/2025     | 10/04/2025 | ✔️    | 10/04/2025                |
+| Ingrid Y.     | Diagrama 1, Slides e preenchimento da descrição das atividades do processo | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
+|João F.        | Projeto de Wireframe, Userflow e Slides    |  29/04/2025    | 07/05/2025 | 📝 | -------     |
+|João G.        | Diagrama 1 e preenchimento da descrição do AS-Is no Git  |  27/03/2025    | 04/04/2025 | ✔️ | 04/04/2025    |
+|Luiz H.        | Diagrama 2 e preenchimento da descrição do TO-BE no Git  |  04/04/2025    | 10/04/2025 | ✔️ |  10/04/2025  |
+
+Legenda:
+- ✔️: terminado
+- 📝: em execução
+- ⌛: atrasado
+- ❌: não iniciado
+
 ### Processo
 
 Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
