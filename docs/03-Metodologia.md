@@ -90,7 +90,7 @@ Atualizado em: 10/04/2025
 | Iago M.       | Diagrama 2 e especificação do diagrama    | 29/03/2025     | 10/04/2025 | ✔️    | 10/04/2025                |
 | Ingrid Y.     | Diagrama 1, Slides e preenchimento da descrição das atividades do processo | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
 |João F.        | Projeto de Wireframe, Userflow e Slides    |  29/04/2025    | 07/05/2025 | 📝 | -------     |
-|João G.        | Diagrama 1 e preenchimento da descrição do AS-Is no Git  |  27/03/2025    | 04/04/2025 | ✔️ | 04/04/2025    |
+|João G.        | Jornada de usuário |  29/03/2025    | 02/05/2025 | ✔️ | 01/05/2025    |
 |Luiz H.        | Diagrama 2 e preenchimento da descrição do TO-BE no Git  |  04/04/2025    | 10/04/2025 | ✔️ |  10/04/2025  |
 
 Legenda:
