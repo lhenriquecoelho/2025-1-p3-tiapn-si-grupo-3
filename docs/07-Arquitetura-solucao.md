@@ -14,6 +14,13 @@ O diagrama de classes ilustra graficamente a estrutura do software e como cada u
 > - [Diagramas de classes - documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-class)
 > - [O que é um diagrama de classe UML?](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
 
+## Jornada do usuário
+
+Jornada de Empréstimo de Materiais
+
+![Jornada de Empréstimo de Materiais](https://github.com/user-attachments/assets/711b860a-ef7c-4c11-9c17-56ef9eca7f16)
+
+
 ##  Modelo de dados
 
 O desenvolvimento da solução proposta requer a existência de bases de dados que permitam realizar o cadastro de dados e os controles associados aos processos identificados, assim como suas recuperações.
