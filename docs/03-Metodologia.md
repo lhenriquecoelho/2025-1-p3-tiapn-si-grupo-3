@@ -50,7 +50,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 #### Sprint 1
 
-Atualizado em: 10/03/2024
+Atualizado em: 10/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
@@ -82,7 +82,7 @@ Legenda:
 
 #### Sprint 3
 
-Atualizado em: 10/04/2025
+Atualizado em: 07/05/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
@@ -91,7 +91,7 @@ Atualizado em: 10/04/2025
 | Ingrid Y.     | Diagrama 1, Slides e preenchimento da descrição das atividades do processo | 27/03/2025 | 04/04/2025 | ✔️ | 04/04/2025  |
 |João F.        | Projeto de Wireframe, Userflow e Diagrama de Fluxos    |  29/04/2025    | 07/05/2025 | 📝 | -------     |
 |João G.        | Jornada de usuário |  29/03/2025    | 02/05/2025 | ✔️ | 01/05/2025    |
-|Luiz H.        | Diagrama 2 e preenchimento da descrição do TO-BE no Git  |  04/04/2025    | 10/04/2025 | ✔️ |  10/04/2025  |
+|Luiz H.        | Jornada de usuário  |  22/04/2025    | 02/05/2025 | ✔️ |  02/05/2025  |
 
 Legenda:
 - ✔️: terminado
