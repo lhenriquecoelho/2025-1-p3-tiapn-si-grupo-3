@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados na <a href="02-Especificacao.md"> Especificação do projeto</a></span>.
 
  ## User flow
-![User flow Manejo GR](images/UserFlow_Manejo.jpg)
+![User flow Manejo GR](images/UserFlow_Manejo.jng)
 
 
 ### Diagrama de fluxo
@@ -17,7 +17,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem, internamente, a indicação dos principais elementos de interface — tais como menus e acessos — e funcionalidades, como editar, pesquisar, filtrar e configurar, além da conexão entre esses boxes a partir do processo de interação.
 
-![Exemplo de diagrama de fluxo](images/Manejo_DiagramaFluxo.jpg)
+![Diagrama de fluxo Login](images/Manejo_DiagramaFluxo.jpg)
 
 ## Wireframes
 
