@@ -22,9 +22,7 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem, intername
 ## Wireframes
 
 
-![Tela-Login](images/Manejo_Login.png)
-![Tela-Cadastro](images/Manejo_Cadastro.png)
-![Tela-Assinatura](images/Manejo_Assinatura.png)
+![Tela-Login-Cadastro-Assinatura](images/Manejo_TelasLCA.png)
 ![Tela-Home](images/Manejo_Home.png)
 ![Tela-Empréstimo](images/Manejo_TelasEmprestimo.png)
 ![Tela-Funcionários](images/Manejo_TelasFunc.png)
