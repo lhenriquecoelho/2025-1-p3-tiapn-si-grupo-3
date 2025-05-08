@@ -34,28 +34,35 @@ Visão geral da interação do usuário por meio das telas do sistema. Apresente
 
 ### Tela principal do sistema
 
-Descrição da tela principal do sistema.
+Na tela principal, o usuário terá acesso a menus rápidos com as ferramentas e funcionários, além de uma agenda.
 
-> Insira aqui a tela principal do sistema
-
-
-###  Telas do processo 1
-
-Descrição da tela relativa à atividade 1 do processo 1.
-
-> Insira aqui a tela da atividade 1
-
-Descrição da tela relativa à atividade 2 do processo 1.
-
-> Insira aqui a tela da atividade 2
+![Tela-Home]
 
 
-### Telas do processo 2
 
-Descrição da tela relativa à atividade 1 do processo 2.
+###  Telas de Emprestimo
 
-> Insira aqui a tela da atividade 1
+Na tela inicial de Empréstimo, o usuário tem acesso aos menus e a um aviso de empréstimos em atraso.
 
-Descrição da tela relativa à atividade 2 do processo 2.
+![image](https://github.com/user-attachments/assets/5b18b3d0-b54f-4a38-9c45-b2f9e45cb88b)
 
-> Insira aqui a tela da atividade 2
+
+Na tela de Listar Empréstimos, o usuário consegue ver e filtrar todos os empréstimos que estão ativos, além de conseguir devolvê-los.
+
+![image](https://github.com/user-attachments/assets/ea619bb8-3cd5-4c6a-adb3-3190dcfc3cc4)
+
+
+
+### Telas de Compra de Ferramentas
+
+Após a compra de ferramentas, o usuário pode adicioná-las no estoque.
+
+![image](https://github.com/user-attachments/assets/862466ed-6ada-4839-9f0e-8c5a7c6be5de)
+
+
+O usuário consegue ver e editar todas as ferramentas que estão no estoque, assim como ver o histórico de uso de cada uma.
+
+![image](https://github.com/user-attachments/assets/62aff239-7ff3-4d63-b74d-a3180adbba44)
+![image](https://github.com/user-attachments/assets/001335a9-44a9-4738-9344-46960b0e3e26)
+
+
