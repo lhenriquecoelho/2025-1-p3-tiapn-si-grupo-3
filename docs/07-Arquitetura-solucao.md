@@ -18,7 +18,7 @@ Jornada de Empréstimo de Materiais
 
 
 ##  Modelo de dados
-
+![Modelo de dados](images/modelo_de_dados.jpeg)
 ### Modelo ER
 ![Modelo ER](images/modelo_er.jpeg)
 ### Esquema relacional
