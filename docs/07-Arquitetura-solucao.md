@@ -20,7 +20,7 @@ Jornada de Empréstimo de Materiais
 ##  Modelo de dados
 
 ### Modelo ER
-
+![Modelo ER](images/modelo_er.jpeg)
 ### Esquema relacional
 
 ![Modelo relacional](images/diagrama_pe_de_galinha.png)
