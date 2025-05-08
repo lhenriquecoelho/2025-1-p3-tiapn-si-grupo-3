@@ -27,14 +27,11 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem, intername
 ![Tela-Assinatura](images/Manejo_Assinatura.png)
 ![Tela-Home](images/Manejo_Home.png)
 ![Tela-Empréstimo](images/Manejo_TelasEmprestimo.png)
-![Tela-Funcionários](images/Manejo_NovoFun.png)
-![Tela-Funcioários](images/Manejo_EditarFun.png)
+![Tela-Funcionários](images/Manejo_TelasFunc.png)
 ![Tela-Agenda](images/Manejo_TelasAgenda.png)
 ![Tela-Estoque](images/Manejo_TelasEstoque.png)
 ![Tela-Configurações](images/Manejo_Configuracoes.png)
-![Tela-Departamento](images/Manejo_Dep.png)
-![Tela-Departamento](images/Manejo_CriarDep.png)
-![Tela-Departamento](images/Manejo_EditarDep.png)
+![Tela-Departamento](images/Manejo_TelasDep.png)
  
 
 ## Interface do sistema
