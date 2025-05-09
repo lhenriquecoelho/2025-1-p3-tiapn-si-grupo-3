@@ -4,7 +4,7 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-![Arquitetura da Solução](images/arquitetura.png)
+![Arquitetura da Solução](images/Projeto_Solucao.png)
 
 ## Diagrama de classes
 
@@ -18,6 +18,7 @@ Jornada de Empréstimo de Materiais
 
 
 ##  Modelo de dados
+### Diagrama de Esquema
 ![Modelo de dados](images/modelo_de_dados.jpeg)
 ### Modelo ER
 ![Modelo ER](images/modelo_er.jpeg)
