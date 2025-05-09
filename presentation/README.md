@@ -8,7 +8,11 @@
 [TIAPN-MANEJO-SPRINT-1.pdf](https://github.com/user-attachments/files/19233468/TIAPN-MANEJO-SPRINT-1.pdf)
 
 [TIAPN-MANEJO-SPRINT-2.pdf](https://github.com/user-attachments/files/19625341/TIAPN.-.MANEJO.-.SPRINT.2.pdf)
+
+[TIAPN - MANEJO -SPRINT_3.pdf](https://github.com/user-attachments/files/20113732/TIAPN.-.MANEJO.-SPRINT_3.pdf)
+
 > O arquivo deve estar no formato PDF e conter a apresentação completa do projeto, abordando todos os itens trabalhados nos demais artefatos. 
+
 
 
 > **Links úteis**:
