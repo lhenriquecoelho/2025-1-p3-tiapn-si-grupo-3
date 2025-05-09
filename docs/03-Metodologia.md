@@ -120,4 +120,5 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 | Slide de Apresentação                | Canva                              |https://www.canva.com/design/DAGhErQqtyw/Gf00ZqT2x5SFzS-EAGICSA/edit               |
 | Gerenciamento do projeto            | GitHub Projects                    |https://github.com/orgs/ICEI-PUC-Minas-PCO-SI/projects/104                          |
 | Criação de Diagramas                 | HEFLO                            | https://app.heflo.com/Home#&logout=true                   |
+| Criação do Wireframe e UserFlow               | Figma                        |https://www.figma.com/design/VOaotVD0gdieKyhPdMuj8k/Manejo-GR?node-id=0-1&p=f&t=GQkAHKaUGfy250ad-0                 |
 | Encontros Online               | Teams                          |https://www.microsoft.com/pt-br/microsoft-teams/log-in                  |
