@@ -43,6 +43,12 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 - Modelagem _Processo 2_: João Felipe, Luiz Henrique e Iago Moysés
 - Slides: Ingrid Yara
 
+#### Sprint 4
+- _Scrum master_: Iago Moysés
+- Telas de ferramentas e empréstimo: Iago Moysés, Ingrid Yara, Luiz Coelho
+- Telas de funcionários e Homepage: João Felipe, Gabriel e João Gabriel
+- Slides: 
+
 
 ###  Quadro de tarefas
 
