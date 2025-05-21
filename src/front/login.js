@@ -20,3 +20,15 @@ signUpForm.addEventListener('submit', (e) => {
 
     console.log({nome, email, senha});
 });
+
+const signInForm = document.querySelector('.sign-in-container form');
+signInForm.addEventListener('submit', (e) => {
+    e.preventDefault(); // Evita o reload da página
+    const email = signInForm.querySelector('input[placeholder="Email"]').value.trim();
+    const senha = signInForm.querySelector('input[placeholder="Password"]').value.trim();
+    if (!email || !senha) {
+        alert("Preencha todos os campos!");
+        return;
+    }
+    console.log({email, senha});
+});
