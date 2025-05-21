@@ -278,6 +278,12 @@ main > article > div#emprestimos > div#filtragem{
   justify-content: space-between;
 }
 
+main > article > div#emprestimos > div#filtragem > div.input-icons > input{
+
+  padding-left: 70px;
+
+}
+
 main > article > div#emprestimos > div#filtragem > div.input-icons > input::placeholder{
 
   color:black;
@@ -342,7 +348,7 @@ main > article > div#emprestimos > div#listaEmprestimos{
   justify-content: center;
   align-items: center;
 }
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo{
 
   background-color: white;
   padding: 10px 40px 20px 20px;
@@ -355,25 +361,25 @@ main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo{
 
 }
 
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo1, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo2, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo3{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo1, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo2, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo3{
 
   padding-top: 5px;
 
 }
 
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo1 > div, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo2 > div, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo3 > div{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo1 > div, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo2 > div, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo3 > div{
 
   margin-bottom: 20px;
 }
 
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo1 > div > p.label, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo2 > div > p.label, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo3 > div > p.label{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo1 > div > p.label, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo2 > div > p.label, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo3 > div > p.label{
 
   margin:0;
   padding:0;
   font-weight: bold;
 }
 
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo1 > div > p.text, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo2 > div > p.text, main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo3 > div > p.text{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo1 > div > p.text, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo2 > div > p.text, main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo3 > div > p.text{
 
   font-size: 1.3em;
   padding:0;
@@ -381,7 +387,7 @@ main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#g
   padding-top: 3px;
 }
 
-main > article > div#emprestimos > div#listaEmprestimos > div#emprestimo > div#grupo3 > button{
+main > article > div#emprestimos > div#listaEmprestimos > div.emprestimo > div#grupo3 > button{
 
   border:none;
   outline: none;

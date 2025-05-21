@@ -25,7 +25,7 @@
         <div class="navbar-left">
             <button class="menu-button">&#9776;</button>
             <a href="Index.html">
-                <img src="./../assets/Logo-Manejo_Laranja.png" alt="Logo Manejo" class="logo-img" />
+                <img src="assets/Logo-Manejo_Laranja.png" alt="Logo Manejo" class="logo-img" />
             </a>
 
         </div>
@@ -48,7 +48,7 @@
             <a href="#">
             <div class="user-info">
 
-                <img src="./../assets/Logo_Fernandes-Prado.png" alt="Logo Fernandes Prado" class="logo-empresa" />
+                <img src="assets/Logo_Fernandes-Prado.png" alt="Logo Fernandes Prado" class="logo-empresa" />
 
                 <div class="user-text">
                     <p class="user-name">Alessandra</p>
@@ -69,14 +69,14 @@
       <nav class="sidebar-nav">
         <ul>
 
-          <li class="active">
+          <li >
             <a href="home.html">
               <i class="fa fa-house"></i>
               <span>Início</span>
             </a>
           </li>
 
-          <li>
+          <li class="active">
             <a href="emprestimos.html">
               <i class="fa fa-cart-shopping"></i>
               <span>Empréstimos</span>
@@ -137,21 +137,24 @@
 
               <i id="icon_search" class="material-icons">search</i>
 
-              <input type="text" name="nome" id="inputNome" placeholder="Nome">
+              <input type="text" name="nome" id="inputNome" placeholder="Nome" onkeyup="pesquisar()">
             </div>
 
-            <select name="selectPeca" id="selectPeca">
-              <option selected disabled>Código da Peça</option>
-              <option value="Peca1">Peca 1</option>
-              <option value="peca2">Peca 2</option>
-              <option value="peca3">Peca 3</option>
+            <select name="selectPeca" id="selectPeca" onchange="pesquisar()">
+              <option selected value="vazio">Código da Peça</option>
+              <option value="1287-01">1287-01</option>
+              <option value="3242-73">3242-73</option>
+              <option value="8923-21">8923-21</option>
+              <option value="8392-32">8392-32</option>
+              <option value="1282-21">1282-21</option>
             </select>
 
-            <select name="selectDepartamento" id="selectDepartamento">
-              <option selected disabled>Departamento</option>
-              <option value="departamento1">Departamento 1</option>
-              <option value="departamento2">Departamento 2</option>
-              <option value="departamento3">Departamento 3</option>
+            <select name="selectDepartamento" id="selectDepartamento" onchange="pesquisar()">
+              <option selected value="vazio">Departamento</option>
+              <option value="Construção">Construção</option>
+              <option value="Administração">Administração</option>
+              <option value="Operação">Operação</option>
+              <option value="Recursos Humanos">Recursos Humanos</option>
             </select>
 
             <i class="material-icons">close</i>
@@ -161,131 +164,7 @@
           <div class="divider"></div>
 
           <div id="listaEmprestimos">
-
-            <div id="emprestimo">
-
-              <div id="grupo1">
-
-                <div>
-                  <p class="label">Nome</p>
-                  <p class="text">Getúlio Vargas</p>
-                </div>
-
-                <div>
-                  <p class="label">Data de Empréstimo</p>
-                  <p class="text">02/12/24 - 12:39</p>
-                </div>
-
-              </div>
-              
-              <div id="grupo2">
-
-                <div>
-                  <p class="label">Departamento</p> 
-                  <p class="text">Construção</p>
-                </div>
-
-                <div>
-                  <p class="label">Ferramenta</p>
-                  <p class="text">1287-01</p>
-                </div>              
-              </div>
-
-              <div id="grupo3">
-
-                <div>
-                  
-                  <p class="label">Data de Devolução <i class="material-icons icon_circle">brightness_1</i></p>
-                  
-                  <p class="text">02/12/24</p>
-                </div>
-
-                <button type="submit">Devolver</button>
-
-              </div>
-            </div>
-
-            <div id="emprestimo">
-
-              <div id="grupo1">
-
-                <div>
-                  <p class="label">Nome</p>
-                  <p class="text">Getúlio Vargas</p>
-                </div>
-
-                <div>
-                  <p class="label">Data de Empréstimo</p>
-                  <p class="text">02/12/24 - 12:39</p>
-                </div>
-
-              </div>
-              
-              <div id="grupo2">
-
-                <div>
-                  <p class="label">Departamento</p> 
-                  <p class="text">Construção</p>
-                </div>
-
-                <div>
-                  <p class="label">Ferramenta</p>
-                  <p class="text">1287-01</p>
-                </div>              
-              </div>
-
-              <div id="grupo3">
-
-                <div>
-                  <p class="label">Data de Devolução <i class="material-icons icon_circle">brightness_1</i></p>
-                  <p class="text">02/12/24</p>
-                </div>
-
-                <button type="submit">Devolver</button>
-
-              </div>
-            </div>
-
-            <div id="emprestimo">
-
-              <div id="grupo1">
-
-                <div>
-                  <p class="label">Nome</p>
-                  <p class="text">Getúlio Vargas</p>
-                </div>
-
-                <div>
-                  <p class="label">Data de Empréstimo</p>
-                  <p class="text">02/12/24 - 12:39</p>
-                </div>
-
-              </div>
-              
-              <div id="grupo2">
-
-                <div>
-                  <p class="label">Departamento</p> 
-                  <p class="text">Construção</p>
-                </div>
-
-                <div>
-                  <p class="label">Ferramenta</p>
-                  <p class="text">1287-01</p>
-                </div>              
-              </div>
-
-              <div id="grupo3">
-
-                <div>
-                  <p class="label">Data de Devolução <i class="material-icons icon_circle">brightness_1</i></p>
-                  <p class="text">02/12/24</p>
-                </div>
-
-                <button type="submit">Devolver</button>
-
-              </div>
-            </div>
+        
           </div>
           
         </div>
