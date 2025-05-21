@@ -117,6 +117,16 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Material` (
   PRIMARY KEY (`Codigo`))
 ENGINE = InnoDB;
 
+-- -----------------------------------------------------
+-- Table `mydb`.`Usuario`
+-- -----------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS `mydb`.`Usuario` (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(100) NOT NULL,
+  email VARCHAR(100) NOT NULL UNIQUE,
+  senha VARCHAR(255) NOT NULL
+) ENGINE = InnoDB;
 
 -- -----------------------------------------------------
 -- Table `mydb`.`Compra_Material`
