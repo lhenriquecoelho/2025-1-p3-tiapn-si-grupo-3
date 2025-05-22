@@ -1,3 +1,5 @@
+const { json } = require("body-parser");
+
 const container = document.getElementById('container');
     document.getElementById('sign-up').addEventListener('click', () => {
       container.classList.add('right-panel-active');
@@ -32,3 +34,9 @@ signInForm.addEventListener('submit', (e) => {
     }
     console.log({email, senha});
 });
+
+fetch('https://localhost:3000/api/Usuario', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json' },
+    body: JSON.stringify({ nome, email, senha })
+})

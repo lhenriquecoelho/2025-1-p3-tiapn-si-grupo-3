@@ -10,8 +10,8 @@ app.use(express.json());
 // Configurar a conexão com o banco de dados
 const db = mysql.createConnection({
   host: 'localhost',
-  user: 'usuario',
-  password: 'senha',
+  user: 'root',
+  password: '',
   database: 'mydb'
 });
 
@@ -33,7 +33,7 @@ app.post('/api/usuarios', async (req, res) => {
 
   try {
     const hashedPassword = await bcrypt.hash(senha, 10);
-    const query = 'INSERT INTO usuarios (nome, email, senha) VALUES (?, ?, ?)';
+    const query = 'INSERT INTO Usuario (nome, email, senha) VALUES (?, ?, ?)';
     db.query(query, [nome, email, hashedPassword], (err, result) => {
       if (err) {
         console.error('Erro ao cadastrar usuário:', err);
