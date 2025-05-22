@@ -105,6 +105,18 @@ Legenda:
 - ⌛: atrasado
 - ❌: não iniciado
 
+#### Sprint 4
+
+| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
+| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
+| Gabriel H.     | Tela e CRUD de funcionários | 19/05/2025     | 05/06/2025 | 📝    |       |
+| Ingrid Y.       | Tela e CRUD de empréstimos    | 19/05/2025     | 05/06/2025 | 📝     |                   |
+| João F.      | Tela de início   | 19/05/2025    | 05/06/2025  | 📝     |                  |
+| Iago M.        |  Tela e CRUD de ferramentas  |    19/05/2025        | 05/06/2025 |  📝   |       |         
+| João G.        | Tela e CRUD de login  |    19/05/2025        | 05/06/2025  |  📝   |      |
+| Luiz H.       |   |            |  |  📝   |       |
+
+
 ### Processo
 
 Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
