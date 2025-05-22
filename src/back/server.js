@@ -1,9 +1,11 @@
+const path = require('path');
 const express = require('express');
 const mysql = require('mysql2');
 const cors = require('cors');
 const bcrypt = require('bcrypt');
 
 const app = express();
+app.use(express.static(path.join(__dirname, '..', 'front')));
 app.use(cors());
 app.use(express.json());
 
@@ -54,7 +56,7 @@ app.post('/api/login', (req, res) => {
     return res.status(400).json({ error: 'Email e senha são obrigatórios.' });
   }
 
-  const query = 'SELECT * FROM usuarios WHERE email = ?';
+  const query = 'SELECT * FROM Usuario WHERE email = ?';
   db.query(query, [email], async (err, results) => {
     if (err) {
       console.error('Erro ao buscar usuário:', err);
