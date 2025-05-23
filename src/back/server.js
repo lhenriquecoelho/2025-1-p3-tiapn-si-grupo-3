@@ -73,7 +73,13 @@ app.post('/api/login', (req, res) => {
       return res.status(401).json({ error: 'Credenciais inválidas.' });
     }
 
-    res.status(200).json({ message: 'Login bem-sucedido.' });
+    res.status(200).json({ message: 'Login bem-sucedido.', 
+      user: {
+        id: usuario.id,
+        nome: usuario.nome,
+        email: usuario.email
+      }
+    });
   });
 });
 
