@@ -64,6 +64,7 @@ signInForm.addEventListener('submit', async (e) => {
     const data = await response.json();
     if (response.ok) {
       alert('Login bem-sucedido!');
+      localStorage.setItem('user', JSON.stringify(data.user));
       // Redirecionar para área protegida
       window.location.href = '/dashboard.html';
     } else {

@@ -1,13 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <title>Dashboard</title>
 </head>
 <body>
-    <h1>teste</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis facere reprehenderit sit assumenda, quam omnis earum voluptatibus tempora accusantium fuga itaque eius amet placeat dolor repellat laudantium quos neque voluptas, porro exercitationem inventore in ipsum. Tenetur, velit? Sapiente eveniet quia, possimus culpa accusamus delectus aliquam quasi tempore nisi eos explicabo!</p>
-    
+  <h1>Bem-vindo, <span id="user-name">...</span>!</h1>
+  <p>Seu email é <strong id="user-email">...</strong></p>
+  <button id="logout">Sair</button>
+
+  <script>
+    // Pega o usuário salvo
+    const user = JSON.parse(localStorage.getItem('user') || '{}');
+    if (!user.id) {
+      // se não estiver logado, volta ao login
+      window.location.href = '/Login_SignIn.html';
+    } else {
+      // preenche o DOM
+      document.getElementById('user-name').textContent = user.nome;
+      document.getElementById('user-email').textContent = user.email;
+    }
+
+    document.getElementById('logout').addEventListener('click', () => {
+      localStorage.removeItem('user');
+      window.location.href = '/Login_SignIn.html';
+    });
+  </script>
 </body>
 </html>
