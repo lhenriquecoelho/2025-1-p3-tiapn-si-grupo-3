@@ -17,7 +17,7 @@ app.post('/api/forgot-password', async (req, res) => {
   if (!email) return res.status(400).json({ error: 'E-mail é obrigatório.' });
 
   // 1. Verifica se o usuário existe
-  db.query('SELECT id FROM Usuario WHERE email = ?', [email], (err, results) => {
+  db.query('SELECT id FROM Administrador WHERE email = ?', [email], (err, results) => {
     if (err) return res.status(500).json({ error: 'Erro no servidor.' });
     if (results.length === 0) return res.status(404).json({ error: 'E-mail não cadastrado.' });
 
@@ -27,7 +27,7 @@ app.post('/api/forgot-password', async (req, res) => {
 
     // 3. Armazena no banco
     db.query(
-      'UPDATE Usuario SET reset_token = ?, reset_expires = ? WHERE email = ?',
+      'UPDATE Administrador SET reset_token = ?, reset_expires = ? WHERE email = ?',
       [token, expires, email],
       async (err) => {
         if (err) return res.status(500).json({ error: 'Erro ao salvar token.' });
@@ -61,7 +61,7 @@ app.post('/api/reset-password', (req, res) => {
 
   // 1. Verifica token e expiração
   db.query(
-    'SELECT id, reset_expires FROM Usuario WHERE reset_token = ?',
+    'SELECT id, reset_expires FROM Administrador WHERE reset_token = ?',
     [token],
     async (err, results) => {
       if (err) return res.status(500).json({ error: 'Erro no servidor.' });
@@ -73,7 +73,7 @@ app.post('/api/reset-password', (req, res) => {
       const hashed = await bcrypt.hash(senha, 10);
       // 3. Atualiza senha e limpa token
       db.query(
-        'UPDATE Usuario SET senha = ?, reset_token = NULL, reset_expires = NULL WHERE id = ?',
+        'UPDATE Administrador SET senha = ?, reset_token = NULL, reset_expires = NULL WHERE id = ?',
         [hashed, userId],
         (err) => {
           if (err) return res.status(500).json({ error: 'Erro ao salvar nova senha.' });
@@ -102,7 +102,7 @@ db.connect((err) => {
 });
 
 // Rota para cadastro de usuário
-app.post('/api/usuarios', async (req, res) => {
+app.post('/api/administrador', async (req, res) => {
   const { nome, email, senha } = req.body;
   if (!nome || !email || !senha) {
     return res.status(400).json({ error: 'Todos os campos são obrigatórios.' });
@@ -110,7 +110,7 @@ app.post('/api/usuarios', async (req, res) => {
 
   try {
     const hashedPassword = await bcrypt.hash(senha, 10);
-    const query = 'INSERT INTO Usuario (nome, email, senha) VALUES (?, ?, ?)';
+    const query = 'INSERT INTO Administrador (nome, email, senha) VALUES (?, ?, ?)';
     db.query(query, [nome, email, hashedPassword], (err, result) => {
       if (err) {
         console.error('Erro ao cadastrar usuário:', err);
@@ -131,7 +131,7 @@ app.post('/api/login', (req, res) => {
     return res.status(400).json({ error: 'Email e senha são obrigatórios.' });
   }
 
-  const query = 'SELECT * FROM Usuario WHERE email = ?';
+  const query = 'SELECT * FROM Administrador WHERE email = ?';
   db.query(query, [email], async (err, results) => {
     if (err) {
       console.error('Erro ao buscar usuário:', err);
@@ -142,17 +142,17 @@ app.post('/api/login', (req, res) => {
       return res.status(401).json({ error: 'Credenciais inválidas.' });
     }
 
-    const usuario = results[0];
-    const senhaValida = await bcrypt.compare(senha, usuario.senha);
+    const administrador = results[0];
+    const senhaValida = await bcrypt.compare(senha, administrador.senha);
     if (!senhaValida) {
       return res.status(401).json({ error: 'Credenciais inválidas.' });
     }
 
     res.status(200).json({ message: 'Login bem-sucedido.', 
       user: {
-        id: usuario.id,
-        nome: usuario.nome,
-        email: usuario.email
+        id: administrador.id,
+        nome: administrador.nome,
+        email: administrador.email
       }
     });
   });
